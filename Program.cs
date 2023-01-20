@@ -1,5 +1,5 @@
 ﻿using System;
-using static runPE.Imports.Imports;
+using static runPE.Imports;
 
 namespace runPE
 {
